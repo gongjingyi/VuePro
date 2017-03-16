@@ -1,0 +1,300 @@
+{
+  "msg": "ok",
+  "status": 0,
+  "data": {
+    "todayList": [
+      {
+        "matchId": "201703061301",
+        "homeName": "骑士",
+        "awayName": "热火",
+        "matchNo": "周一 301",
+        "matchBeginTime": 1488844800000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061302",
+        "homeName": "魔术",
+        "awayName": "尼克斯",
+        "matchNo": "周一 302",
+        "matchBeginTime": 1488844800000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061303",
+        "homeName": "76人",
+        "awayName": "雄鹿",
+        "matchNo": "周一 303",
+        "matchBeginTime": 1488844800000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061304",
+        "homeName": "老鹰",
+        "awayName": "勇士",
+        "matchNo": "周一 304",
+        "matchBeginTime": 1488846600000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061305",
+        "homeName": "活塞",
+        "awayName": "公牛",
+        "matchNo": "周一 305",
+        "matchBeginTime": 1488846600000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061306",
+        "homeName": "黄蜂",
+        "awayName": "步行者",
+        "matchNo": "周一 306",
+        "matchBeginTime": 1488848400000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061307",
+        "homeName": "灰熊",
+        "awayName": "篮网",
+        "matchNo": "周一 307",
+        "matchBeginTime": 1488848400000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061308",
+        "homeName": "森林狼",
+        "awayName": "开拓者",
+        "matchNo": "周一 308",
+        "matchBeginTime": 1488848400000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061309",
+        "homeName": "马刺",
+        "awayName": "火箭",
+        "matchNo": "周一 309",
+        "matchBeginTime": 1488850200000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061310",
+        "homeName": "掘金",
+        "awayName": "国王",
+        "matchNo": "周一 310",
+        "matchBeginTime": 1488852000000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061311",
+        "homeName": "爵士",
+        "awayName": "鹈鹕",
+        "matchNo": "周一 311",
+        "matchBeginTime": 1488852000000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061312",
+        "homeName": "快船",
+        "awayName": "凯尔特人",
+        "matchNo": "周一 312",
+        "matchBeginTime": 1488857400000,
+        "matchStatus": 1
+      }
+    ],
+    "tomorrowList": [
+      {
+        "matchId": "201703061301",
+        "homeName": "骑士",
+        "awayName": "热火",
+        "matchNo": "周二 301",
+        "matchBeginTime": 1488844800000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061302",
+        "homeName": "魔术",
+        "awayName": "尼克斯",
+        "matchNo": "周一 302",
+        "matchBeginTime": 1488844800000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061303",
+        "homeName": "76人",
+        "awayName": "雄鹿",
+        "matchNo": "周一 303",
+        "matchBeginTime": 1488844800000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061304",
+        "homeName": "老鹰",
+        "awayName": "勇士",
+        "matchNo": "周一 304",
+        "matchBeginTime": 1488846600000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061305",
+        "homeName": "活塞",
+        "awayName": "公牛",
+        "matchNo": "周一 305",
+        "matchBeginTime": 1488846600000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061306",
+        "homeName": "黄蜂",
+        "awayName": "步行者",
+        "matchNo": "周一 306",
+        "matchBeginTime": 1488848400000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061307",
+        "homeName": "灰熊",
+        "awayName": "篮网",
+        "matchNo": "周一 307",
+        "matchBeginTime": 1488848400000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061308",
+        "homeName": "森林狼",
+        "awayName": "开拓者",
+        "matchNo": "周一 308",
+        "matchBeginTime": 1488848400000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061309",
+        "homeName": "马刺",
+        "awayName": "火箭",
+        "matchNo": "周一 309",
+        "matchBeginTime": 1488850200000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061310",
+        "homeName": "掘金",
+        "awayName": "国王",
+        "matchNo": "周一 310",
+        "matchBeginTime": 1488852000000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061311",
+        "homeName": "爵士",
+        "awayName": "鹈鹕",
+        "matchNo": "周一 311",
+        "matchBeginTime": 1488852000000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061312",
+        "homeName": "快船",
+        "awayName": "凯尔特人",
+        "matchNo": "周一 312",
+        "matchBeginTime": 1488857400000,
+        "matchStatus": 1
+      }
+    ],
+    "dayAfterTomorrowList": [
+      {
+        "matchId": "201703061301",
+        "homeName": "骑士",
+        "awayName": "热火",
+        "matchNo": "周三 301",
+        "matchBeginTime": 1488844800000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061302",
+        "homeName": "魔术",
+        "awayName": "尼克斯",
+        "matchNo": "周一 302",
+        "matchBeginTime": 1488844800000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061303",
+        "homeName": "76人",
+        "awayName": "雄鹿",
+        "matchNo": "周一 303",
+        "matchBeginTime": 1488844800000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061304",
+        "homeName": "老鹰",
+        "awayName": "勇士",
+        "matchNo": "周一 304",
+        "matchBeginTime": 1488846600000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061305",
+        "homeName": "活塞",
+        "awayName": "公牛",
+        "matchNo": "周一 305",
+        "matchBeginTime": 1488846600000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061306",
+        "homeName": "黄蜂",
+        "awayName": "步行者",
+        "matchNo": "周一 306",
+        "matchBeginTime": 1488848400000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061307",
+        "homeName": "灰熊",
+        "awayName": "篮网",
+        "matchNo": "周一 307",
+        "matchBeginTime": 1488848400000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061308",
+        "homeName": "森林狼",
+        "awayName": "开拓者",
+        "matchNo": "周一 308",
+        "matchBeginTime": 1488848400000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061309",
+        "homeName": "马刺",
+        "awayName": "火箭",
+        "matchNo": "周一 309",
+        "matchBeginTime": 1488850200000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061310",
+        "homeName": "掘金",
+        "awayName": "国王",
+        "matchNo": "周一 310",
+        "matchBeginTime": 1488852000000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061311",
+        "homeName": "爵士",
+        "awayName": "鹈鹕",
+        "matchNo": "周一 311",
+        "matchBeginTime": 1488852000000,
+        "matchStatus": 1
+      },
+      {
+        "matchId": "201703061312",
+        "homeName": "快船",
+        "awayName": "凯尔特人",
+        "matchNo": "周一 312",
+        "matchBeginTime": 1488857400000,
+        "matchStatus": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "msg": "ok",
+  "status": 0,
+  "data": {
+    "match": {
+      "matchId": "201703061301",
+      "homeName": "骑士",
+      "awayName": "热火",
+      "matchNo": "周一 301",
+      "matchBeginTime": 1488844800000,
+      "matchStatus": 1
+    },
+    "list": [
+      {
+        "id": 4,
+        "name": "你好",
+        "url": "http://www.baidu.com",
+        "matchId": "201703061301"
+      },
+      {
+        "id": 5,
+        "name": "腾讯体育",
+        "url": "http://www.baidu.com",
+        "matchId": "201703061301"
+      }
+    ]
+  }
+}
