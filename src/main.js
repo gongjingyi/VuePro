@@ -59,6 +59,6 @@ Vue.prototype.timestampTransform = function (timeSend, dayName) {
   resultStr = year + '-' + month + '-' + day + '( ' + dayNm + ' )  ';
   return resultStr;
 };
-/* router.push('/item'); */
-router.push('/test');
+router.push('/item');
+/* router.push('/test'); */
 
